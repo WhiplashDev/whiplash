@@ -1,0 +1,2 @@
+file1 in subdir1
+sean edit on 2nd line
