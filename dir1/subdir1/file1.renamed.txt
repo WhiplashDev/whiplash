@@ -1,1 +1,2 @@
 file1 in subdir1 - this is phil's comment!
+added by sean on 2nd line
